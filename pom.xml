@@ -29,11 +29,11 @@
     </site>
     <snapshotRepository>
             <id>nexus</id>
-            <url>http://172.31.58.111:8081/repository/maven-project-snapshots/</url>
+            <url>http://172.31.58.111:8081/repository/maven-project-snapshots1/</url>
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <url>http://172.31.58.111:8081/repository/maven-project-releases/</url>
+            <url>http://172.31.58.111:8081/repository/maven-project-releases1/</url>
         </repository>
   </distributionManagement>
 
